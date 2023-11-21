@@ -6,7 +6,7 @@ document.querySelector('.tecla_pom');
 document.querySelectorAll('.tecla');
 
 const listaDeTeclas = document.querySelectorAll('.tecla');
-const listaDeTeclas = document.querySelectorAll ('.tecla');
+
 
 //para
 
